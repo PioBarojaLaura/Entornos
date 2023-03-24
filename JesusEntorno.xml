@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<canciones>
+<cancion>
+    <titulo>Travesuras</titulo>
+    <album>Single</album>
+    <autor>Nicki Jam</autor>
+    <publicacion>2014</publicacion>
+    <duracion>3:16</duracion>
+    <enlace>https://www.youtube.com/watch?v=OxxggwHFj7M&ab_channel=NickyJamTV</enlace>
+    <visualizaciones>1.106.399.398 visitas</visualizaciones>
+    <genero>Reggeaton</genero>
+</cancion>
+<cancion>
+    <titulo>Maliante HP</titulo>
+    <album>Single</album>
+    <autor>AnuelAA</autor>
+    <publicacion>2017</publicacion>
+    <duracion>4:13</duracion>
+    <enlace>https://www.youtube.com/watch?v=X6TfgFdIfhY&ab_channel=AnuelAA-Topic</enlace>
+    <visualizaciones>401.013 visitas</visualizaciones>
+    <genero>Trap</genero>
+</cancion>
+<cancion>
+    <titulo>Portobello</titulo>
+    <album>Single</album>
+    <autor>Arcangel</autor>
+    <publicacion>2022</publicacion>
+    <duracion>3:44</duracion>
+    <enlace>https://www.youtube.com/watch?v=OXuSqmYr6hk&ab_channel=Arcangel</enlace>
+    <visualizaciones>3.130.683 visitas</visualizaciones>
+    <genero>Pop</genero>
+</cancion>
+</canciones>
